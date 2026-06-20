@@ -1,0 +1,31 @@
+Purpose:
+This policy defines the hiring recommendation criteria used during candidate evaluation.
+
+Hiring Score Thresholds:
+
+Score >= 80
+Recommendation: SHORTLIST
+Action: Candidate proceeds to Technical and HR Interviews.
+
+Score 60-79
+Recommendation: HOLD
+Action: Candidate remains under consideration for future openings or additional screening.
+
+Score < 60
+Recommendation: REJECT
+Action: Candidate does not meet the minimum requirements for the role.
+
+Evaluation Parameters:
+
+1. Technical Skills Match
+2. Relevant Work Experience
+3. Educational Qualification
+4. Project Relevance
+5. Certifications
+6. Communication and Professional Skills (if available)
+
+Important Notes:
+
+* Recommendations must be based solely on candidate qualifications.
+* Personal information must not influence hiring decisions.
+* All evaluations should be explainable and auditable.
