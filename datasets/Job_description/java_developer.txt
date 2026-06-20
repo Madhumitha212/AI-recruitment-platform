@@ -1,0 +1,35 @@
+About the job:
+
+About the Company:
+We are seeking a talented Java Developer with expertise in building robust, scalable backend systems and proficiency in AWS Cloud services. While backend development is the primary focus, candidates with experience in frontend technologies will be given an advantage. This role offers an opportunity to work on end-to-end application development and collaborate with a dynamic team to deliver high-quality solutions.
+
+About the Role:
+We are seeking a talented Java Developer with expertise in building robust, scalable backend systems and proficiency in AWS Cloud services.
+
+Responsibilities:
+Design, develop, and maintain backend services and APIs using Java and related frameworks.
+Leverage AWS cloud services (e.g., EC2, S3, RDS, Lambda) to build scalable and reliable systems.
+Collaborate with cross-functional teams to define system architectures and implement solutions.
+Ensure high performance, security, and responsiveness of applications.
+Debug and resolve backend issues, ensuring code quality and maintainability.
+Contribute to frontend development tasks if required, utilizing frameworks like React or Angular.
+Maintain clear documentation for code and processes.
+
+Qualifications:
+Bachelor’s degree in computer science, Engineering, or a related field.
+3+ years of experience in backend development with Java (Java 8+ preferred).
+
+Required Skills:
+Expertise in frameworks such as Spring Boot and Hibernate.
+Proficiency with AWS services like EC2, S3, RDS, Lambda, API Gateway, and DynamoDB.
+Strong understanding of RESTful API design, microservices architecture, and design patterns.
+Hands-on experience with CI/CD tools (e.g., Jenkins, Git, or similar).
+Familiarity with containerization tools (Docker) and orchestration systems (Kubernetes) is a plus.
+Basic understanding or working experience with frontend technologies like React, Angular, or Vue.js.
+Strong communication and problem-solving skills with a collaborative mindset.
+
+Preferred Skills:
+AWS certifications (e.g., AWS Certified Developer – Associate).
+Experience with Agile methodologies and tools like JIRA.
+Knowledge of database systems (SQL and NoSQL) and caching mechanisms (Redis, Memcached).
+Experience in full-stack development is a significant advantage.
