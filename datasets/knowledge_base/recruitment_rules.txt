@@ -1,0 +1,32 @@
+Recruitment Rules:
+
+General Eligibility Criteria:
+
+1. Candidate must possess a recognized degree:
+
+   * B.E.
+   * B.Tech
+   * MCA
+   * M.Tech
+   * Equivalent Qualification
+
+2. Candidate must satisfy the mandatory skills specified in the Job Description.
+
+3. Candidate experience should align with role requirements.
+
+4. Project experience relevant to the job role should receive additional consideration.
+
+5. Certifications related to the job role may improve evaluation scores.
+
+Screening Rules:
+
+* Missing critical skills may result in rejection.
+* Candidates with transferable skills may be considered for alternate roles.
+* Internship experience can be considered for entry-level positions.
+* Open-source contributions and personal projects may be considered as experience.
+
+Data Validation Rules:
+
+* Empty resumes are invalid.
+* Empty job descriptions are invalid.
+* Duplicate candidate submissions should be flagged.
